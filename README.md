@@ -1,7 +1,7 @@
 ## Changhun Park
 contact: changhunpark0211@gmail.com
 ## Professional Summary
-A skilled data analyst with hands-on experience leveraging SQL, Python, and data visualization tools to derive actionable insights from complex datasets. Proficient in designing and executing data-driven projects, including user behavior analysis, A/B testing, and predictive modeling, with a focus on automotive and energy sectors. Adept at translating business needs into analytical solutions, optimizing KPIs, and effectively communicating insights with diverse teams. Inspired by Tesla’s mission to accelerate sustainable energy, I am eager to contribute to data-driven innovation in electric vehicles and renewable energy systems.
+Hands-on experience leveraging SQL, Python, and data visualization tools to derive actionable insights from complex datasets. Proficient in designing and executing data-driven projects, including user behavior analysis, A/B testing, and predictive modeling, with a focus on automotive and energy sectors. Adept at translating business needs into analytical solutions, optimizing KPIs, and effectively communicating insights with diverse teams. Inspired by Tesla’s mission to accelerate sustainable energy, I am eager to contribute to data-driven innovation in electric vehicles and renewable energy systems.
 
 ## Key Skills
 - **Data Analysis**: SQL (complex queries, joins, window functions), Python (Pandas, NumPy, Scikit-learn, SHAP), A/B testing, hypothesis testing, regression analysis
